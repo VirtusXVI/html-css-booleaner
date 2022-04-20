@@ -14,8 +14,11 @@
     margin-top: 70px;
     margin-left: 10px;
 }
+.main-spacer{
+    margin-top: 20px;
+}
 .main-border{
-    margin-left: 10px;
+    margin-left: 20px;
     margin-right: 10px;
 }
 .subtitle-text-1{
@@ -29,4 +32,30 @@
 }
 .images-caption{
     font-size: 12px;
+}
+.highlighted{
+    background-color: #ffff00;
+}
+.list-spacer{
+    margin-left:17px;
+    margin-top: 20px;
+}
+.table{
+    width: 100%;
+    border: none;
+    text-align: left;
+    border-collapse: collapse;
+}
+.col-char{
+    width: 1000px;
+}
+th{
+    background-color: #20a9e5;
+    color: white;
+}
+.even{
+    background-color: #b1e5f2;
+}
+.odd{
+    
 }
