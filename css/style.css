@@ -14,3 +14,19 @@
     margin-top: 70px;
     margin-left: 10px;
 }
+.main-border{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.subtitle-text-1{
+    color: #808080;
+}
+.subtitle-text-2{
+    color: #20a9e5;
+}
+.main-images{
+    height: 300px;
+}
+.images-caption{
+    font-size: 12px;
+}
